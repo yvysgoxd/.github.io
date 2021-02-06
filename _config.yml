@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: true
-weibo_username:     zerahchu
+#weibo_username:     zerahchu
 #zhihu_username:     zerahchu
 github_username:    zerahchu
 twitter_username:   zerahchu
