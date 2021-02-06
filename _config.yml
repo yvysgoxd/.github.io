@@ -15,9 +15,9 @@ timezone: Asia/Shanghai
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Chirpy                          # the main title
+title: Zerah Chu blog # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: 每个人都有权利为自己做选择和发声   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -30,18 +30,18 @@ url: 'https://zerahchu.github.io'
 author: your_full_name                  # change to your full name
 
 github:
-  username: github_username             # change to your github username
+  username: zerahchu             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: zerahchu            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: zerahchu                  # it will shows as the copyright owner in Footer
+  email: zerahchu@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/zerahchu      # change to your twitter homepage
+    - https://github.com/zerahchu       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
