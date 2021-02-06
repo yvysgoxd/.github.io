@@ -13,8 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-#weibo_username:     huxpro
-#zhihu_username:     huxpro
+weibo_username:     huxpro
+zhihu_username:     huxpro
 github_username:    zerahchu
 twitter_username:   zerahchu
 #facebook_username:  huxpro
@@ -78,7 +78,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "我是Zerah Chu，分享生活，热爱生活 <br> "
+sidebar-about-description: "我是Zerah Chu，分享生活，热爱生活 "
 sidebar-avatar: https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2200844610,1203751147&fm=26&gp=0.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -101,7 +101,7 @@ page-mathjax: false
 
 
 # Friends
-# friends: [
+friends: [
     {
     #     title: "Su",
     #     href: "http://su.gallery/"
