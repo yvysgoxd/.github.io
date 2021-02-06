@@ -4,10 +4,10 @@ title:      "中国高等教育的系统性失败"
 subtitle:   "The Systematic Failure of Higher Education in China"
 date:       2021-01-19 12:00:00
 author:     "Hux"
-catalog: 个人见解
+catalog: false
 header-style: text
 tags:
-  - 个人
+  - 被夹
 ---
 
 > 该回答在知乎问题[「如何评价上海交通大学 18 级计算机系第一名「迟先生」的言论？」](https://www.zhihu.com/question/439622084/answer/1685314467) 下无原因被夹。
