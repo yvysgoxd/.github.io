@@ -5,11 +5,29 @@ description: "《你是我的梦想》"
 header-img: "img/about-bg.jpg"
 multilingual: true
 ---
-Currently, I'm doing my 2019 summer internship at Yahoo! as a product designer working on new features and visuals for app Yahoo Play. I am also happy to be one of the holiday doodler messing up our logo on Yahoo.com ;) 
 
-I'm going to graduate in December 2019 for my 2-year MFA in Visual Communication Design with a focus on UI/UX interaction Design and a minor on illustration at Rochester Institute of Technology. 
+{% include multilingual-sel.html %}
 
-I found myself fascinated by making the interaction flow more friendly and creating various illustrations to served for the digital products. That was the moment I realized that I'm going to be a Product Illustrator / Designer in this world.
+<!-- Chinese Version -->
+<div class="zh post-container">
+    {% capture about_zh %}{% include about/zh.md %}{% endcapture %}
+    {{ about_zh | markdownify }}
+</div>
+
+<!-- English Version -->
+<div class="en post-container">
+    {% capture about_en %}{% include about/en.md %}{% endcapture %}
+    {{ about_en | markdownify }}
+</div>
+
+
+{% if site.disqus_username %}
+<!-- disqus 评论框 start -->
+<div class="comment">
+    <div id="disqus_thread" class="disqus-thread">
+
+    </div>
+</div>
 <!-- disqus 评论框 end -->
 
 <!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
