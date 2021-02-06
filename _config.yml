@@ -1,6 +1,6 @@
 # Site settings
-title: zerahchu
-SEOTitle: zerahchu Blog
+title: Zerah Chu
+SEOTitle: Zerah Chu Blog
 header-img: img/home-bg.jpg
 email: zerahchu@gmail.com
 description: "关于程序与设计、黑客与画家 | zerahchu，Web & Mobile Lover，Software Engineer，UX Designer | 这里是zerahchu的个人博客，与你一起发现更大的世界。"
@@ -78,7 +78,7 @@ ga_domain:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "zerahchu <br> 分享生活，热爱生活"
+sidebar-about-description: "Zerah Chu <br> 分享生活，热爱生活"
 sidebar-avatar: https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2200844610,1203751147&fm=26&gp=0.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
