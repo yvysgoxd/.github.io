@@ -4,7 +4,8 @@ title:      "系统性失败"
 subtitle:   "The Systematic Failure of Higher Education in China"
 date:       2021-01-19 12:00:00
 author:     "xidada"
-catalog: ture
+catalog:
+ - 非常
 header-style: text
 tags:
   - 个人
