@@ -5,15 +5,6 @@ order: 4
 ---
 
 
-<!-- Language Selector -->
-<!-- <select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
-    <option value="0" selected> 中文 Chinese </option>
-    <option value="1"> 英文 English </option>
-</select> -->
-
-<!-- Chinese Version -->
-<div class="zh post-container">
-
     <!--copied from markdown -->
     <blockquote><p>冰冻三尺 非一日之寒<br>
     积土成山 非斯须之作</p></blockquote>
