@@ -2,18 +2,20 @@
 title: Zerah Chu
 SEOTitle: Zerah Chu Blog
 header-img: img/home-bg.jpg
+author : zerahchu
 email: zerahchu@gmail.com
-description: "关于程序与设计、黑客与画家 | zerahchu，Web & Mobile Lover，Software Engineer，UX Designer | 这里是zerahchu的个人博客，与你一起发现更大的世界。"
-keyword: "zerahchu，博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+#description: "关于程序与设计、黑客与画家 | zerahchu，Web & Mobile Lover，Software Engineer，UX #Designer | 这里是zerahchu的个人博客，与你一起发现更大的世界。"
+#keyword: "zerahchu，博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
 url: "https://zerahchu.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
 
-# SNS settings
+# social settings
 RSS: true
 #weibo_username:     zerahchu
+instagram_username: zerahchu
 #zhihu_username:     zerahchu
 github_username:    zerahchu
 twitter_username:   zerahchu
